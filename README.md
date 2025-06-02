@@ -1,7 +1,7 @@
 Fuþorcettanere
 ====
 
-This is an experimental script for converting a text from the Latin alphabet to Old Saxon Futhorc (also known as Runic, Runick, Futhark, runes, and a bunch of other stuff). I am doing this with the intent to produce works in the script. However, it is not merely done with the intent to replace text, but phonetically approximate using Futhorc as it was originally used by the Anglo-Saxons. I took inspiration from the [Deseret Classics](https://www.deseretalphabet.info/classics/) series of books, which used LuaText to transliterate English into Deseret.
+This is an experimental script for converting a text from the Latin alphabet to Old Saxon Futhorc (also known as Runic, Runick, Futhark, runes, and a bunch of other stuff). I am doing this with the intent to produce works in the script. However, it is not merely done with the intent to replace text, but phonetically approximate using Futhorc as it was originally used by the Anglo-Saxons. I took inspiration from the [Deseret Classics](https://www.deseretalphabet.info/classics/) series of books, which used LuaText to transliterate English into Deseret. All transcriptions are based on British English as exists in Phonemizer.
 
 The name "Fuþorcettanere" means Futhorciser.
 
@@ -26,6 +26,7 @@ To-do
 * Don't use the fucking kernel lmao
 * Make the code good
 * Find a GNU font for Futhorc? Make one? Then include it in the repo.
+* American English support
 
 Disclaimer
 ====
